@@ -7,3 +7,5 @@ Tập dữ liệu được cung cấp bởi cuộc thi trên Kaggle https://www.
 Cụ thể, một tập dữ liệu quy mô công nghiệp được sử dụng để xây dựng một mô hình học máy thách thức mô hình hiện tại trong sản xuất.
 Các tập dữ liệu đào tạo, xác thực và thử nghiệm bao gồm dữ liệu hành vi chuỗi thời gian và thông tin hồ sơ khách hàng ẩn danh.
 ## Mô hình
+Tập dữ liệu bao gồm rất nhiều đặc trưng của mỗi khách hàng ẩn danh nên cần xử lý và lựa chọn đặc trưng trước khi huấn luyện mô hình.
+Sử dụng các mô hình như: LightGBMClassifier, XGBClassifie, DNN và Ensemble model.
